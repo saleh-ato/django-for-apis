@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+*/migrations/
+*.pyc
+.vscode/
+.env
+.cache/
+*.DS_Store
